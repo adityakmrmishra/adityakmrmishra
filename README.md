@@ -22,10 +22,13 @@
 
 
 ## My GitHub Status 📊
-![](https://github-readme-stats.vercel.app/api?username=Adityamishra9719&show_icons=true&theme=dark&count_private=true&show_icons=true)
+<!-- <h2 align="left">📊 <b> GitHub Stats </b></h2> -->
 
-## My Top Languages 🔼
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityamishra9719&theme=dark&langs_count=10)
+<div align="center">
+    <img width="360px" alt="GitHub Stats" height="180px" float="left" src="https://awesome-github-stats.azurewebsites.net/user-stats/marshadkhn?theme=dark&cardType=github&ring=D4AF37&show_icons=true&preferLogin=true&title=D4AF37">
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=marshadkhn&theme=dark)
+</div>
 
 ## My Streak 📉
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Adityamishra9719&theme=dark)
