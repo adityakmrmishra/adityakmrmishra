@@ -30,5 +30,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Adityamishra9719&theme=dark)
 </div>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Adityamishra9719&margin-w=8&title=Joined2020,Commit,PullRequest,Followers,Issues,Repositories" /></a> </p>
-<br><br>
