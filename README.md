@@ -29,11 +29,4 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Adityamishra9719&theme=dark)
 </div>
-
-## My Streak 📉
-![](https://github-readme-streak-stats.herokuapp.com/?user=Adityamishra9719&theme=dark)
-
-## My Contribution Graph 🙌
-![](https://activity-graph.herokuapp.com/graph?username=Adityamishra9719&theme=react-dark)
-
 ---
