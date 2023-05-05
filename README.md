@@ -2,7 +2,7 @@
 ##### I'm a STUDENT and a "PERSON GOING TO CONQURE DEVLOPMENT"
 
 - 🌱 I’m currently learning WEB3 & DSA 
-- 🥅 2022 Goals: Learn everything
+- 🥅 2023 Goals: Learn everything
 - 💬 Ask me anything about the technologies listed [here](https://github.com/Adityamishra9719#my-skills-)
 - ⚡ Fun fact: I can sleep anywhere
 
