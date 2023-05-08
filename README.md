@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning WEB3 & DSA 
 - 🥅 2023 Goals: Learn everything
 - 💬 Ask me anything about the technologies listed [here](https://github.com/Adityamishra9719#my-skills-)
-- ⚡ Fun fact: I can sleep anywhere
+- ⚡ Fun fact: I can sleep anywhere. 
 
 ## Let's Connect 🤝
 - Email: adityamishra971916@gmail.com
