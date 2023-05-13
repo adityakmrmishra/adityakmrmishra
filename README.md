@@ -28,7 +28,6 @@
 <div align="center">
     <img width="360px" alt="GitHub Stats" height="180px" float="left" src="https://awesome-github-stats.azurewebsites.net/user-stats/Adityamishra9719?theme=dark&cardType=github&ring=D4AF37&show_icons=true&preferLogin=true&title=D4AF37">
     
-    [![Adityamishra's GitHub | Stats](https://stats.quine.sh/Adityamishra/github?theme=dark)](https://quine.sh)
     
     
 
