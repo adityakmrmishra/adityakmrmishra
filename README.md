@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning WEB3 & DSA 
 - 🥅 2023 Goals: Learn everything and working on FARMHUB
-- 💬 Ask me anything about the technologies listed [here](https://github.com/Adityamishra9719#my-skills-)
 - ⚡ Fun fact: I can sleep anywhere. 
 
 ## Let's Connect 🤝
@@ -23,7 +22,6 @@
 ![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
 ## My GitHub Status 📊
-<!-- <h2 align="left">📊 <b> GitHub Stats </b></h2> -->
 
 <div align="center">
     <img width="360px" alt="GitHub Stats" height="180px" float="left" src="https://awesome-github-stats.azurewebsites.net/user-stats/Adityamishra9719?theme=dark&cardType=github&ring=D4AF37&show_icons=true&preferLogin=true&title=D4AF37">
