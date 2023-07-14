@@ -1,14 +1,28 @@
+<div align="center">
+ <img src="https://github.com/Adityamishra9719/Adityamishra9719/assets/105539123/129c8dc3-d938-42f5-9e0b-ae2263533b27" style = "width:15rem"/>      
+    
 ### Hello, I am  "ADITYA KUMAR MISHRA"  👋
 ##### I'm a STUDENT and a "PERSON GOING TO CONQURE DEVLOPMENT"
 
-- 🌱 I’m currently learning WEB3 & DSA 
-- 🥅 2023 Goals: Learn everything and working on FARMHUB
-- ⚡ Fun fact: I can sleep anywhere. 
+ I’m currently learning WEB3 & DSA
+ <br>
 
+ 🥅 2023 Goals: Learn everything and working on FARMHUB
+ <br>
+
+ ⚡ Fun fact: I can sleep anywhere. 
+</div>
+
+ <br>
+    
+<div align="center">   
+    
 ## Let's Connect 🤝
-- Email: adityamishra971916@gmail.com
-- Linkedin: [Aditya Kumar Mishra](https://www.linkedin.com/in/aditya-kumar-mishra-6a025b216)
-- Instagram: [adityamishra842](https://www.instagram.com/adityamishra842/)  
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kumar-mishra-6a025b216)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Aditya_m037)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adityamishra842/)  
+</div>
+
 
 ## My Skills 💪
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
