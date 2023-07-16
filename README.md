@@ -4,7 +4,7 @@
 ### Hello, I am  "ADITYA KUMAR MISHRA"  👋
 ##### I'm a STUDENT and a "PERSON GOING TO CONQURE DEVLOPMENT"
 
- I’m currently learning DSA
+ 🏫 I’m currently learning DSA
  <br>
 
  🥅 2023 Goals: Learn everything and working on FARMHUB
