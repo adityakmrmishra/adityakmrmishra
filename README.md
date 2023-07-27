@@ -7,7 +7,7 @@
  🏫 I’m currently learning DSA
  <br>
 
- 🥅 2023 Goals: Learn everything and working on FARMHUB
+ 🥅 2023 Goals: Learn everything and working on FARMHUB. 
  <br>
 
  ⚡ Fun fact: I can sleep anywhere. 
