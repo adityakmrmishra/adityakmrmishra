@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://github.com/Adityamishra9719/Adityamishra9719/assets/105539123/129c8dc3-d938-42f5-9e0b-ae2263533b27" style = "width:15rem"/>      
+<!--  <img src="https://github.com/Adityamishra9719/Adityamishra9719/assets/105539123/129c8dc3-d938-42f5-9e0b-ae2263533b27" style = "width:15rem"/>       -->
     
 ### Hello, I am  "ADITYA KUMAR MISHRA"  👋
 ##### I'm a STUDENT and a "PERSON GOING TO CONQURE DEVLOPMENT"
