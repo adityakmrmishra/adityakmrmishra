@@ -51,5 +51,5 @@
 
 </div>
 <div align="center" >
-[![Adityamishra's GitHub | Stats](https://stats.quine.sh/Adityamishra/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Adityamishra)
+![Adityamishra's GitHub | Stats](https://stats.quine.sh/Adityamishra/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Adityamishra)
 </div>
