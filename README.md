@@ -40,14 +40,5 @@
 
 </div>
 
-<br>
 
-## My GitHub Status 📊
-
-<div align="center">
-    <img width="360px" alt="GitHub Stats" height="180px" float="left" src="https://awesome-github-stats.azurewebsites.net/user-stats/Adityamishra9719?theme=dark&cardType=github&ring=D4AF37&show_icons=true&preferLogin=true&title=D4AF37">  
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Adityamishra9719&theme=dark)
-
-</div>
 
