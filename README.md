@@ -1,7 +1,7 @@
 <div align="center">
 
 # ADITYA KUMAR MISHRA
-### Founder — EGMA.IN
+### Founder <a href="https://egma.in" target="_blank">EGMA.IN</a>
 
 </div>
 
